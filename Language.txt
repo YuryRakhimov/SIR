@@ -1,5 +1,5 @@
 #Array Language
 Русский Dictionary-Русский.txt
-English Dictionary-English.txt
+English Dictionary-English.txt 1
 Deutsch Dictionary-Deutsch.txt
 Tajik Dictionary-Tajik.txt

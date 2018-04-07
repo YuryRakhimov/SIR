@@ -2,4 +2,4 @@
 Русский Dictionary-Русский.txt
 English Dictionary-English.txt f6e35570-b66b-43f4-a9cb-0e73f1daebb0
 Deutsch Dictionary-Deutsch.txt bf660d3c-008f-433c-8597-2f7c42c912b9
-Tajik Dictionary-Tajik.txt bf660d3c-008f-433c-8597-2f7c42c912b9
+Tajik Dictionary-Tajik.txt 9fcf7102-44c8-4699-9aed-eecea7564aa1

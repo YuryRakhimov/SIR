@@ -1,5 +1,5 @@
 #Array Language
 Русский Dictionary-Русский.txt
-English Dictionary-English.txt f6e35570-b66b-43f4-a9cb-0e73f1daebb0
-Deutsch Dictionary-Deutsch.txt bf660d3c-008f-433c-8597-2f7c42c912b9
+English Dictionary-English.txt f4838c1f-42be-4bbf-a79a-4ae29fb3b9f6
+Deutsch Dictionary-Deutsch.txt a63adc0d-0a52-4fc5-9774-15c9e88e728e
 Tajik Dictionary-Tajik.txt 9fcf7102-44c8-4699-9aed-eecea7564aa1

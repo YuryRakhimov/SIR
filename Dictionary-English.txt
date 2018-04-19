@@ -1,17 +1,17 @@
 #Array Dictionary-English
+Страна#Country
 Ваш e-mail#Your e-mail
 Ваш идентификатор#Your identifier
 Ваш пароль или слово - Нет#Your password or the word - No
-Страна#Country
 Дата начала периода#Period start date
 Дата окончания периода#Period end date
-Массив базы данных#Array database
-Имя копии сохраняемой базы данных#The name of the copy of the saved database
+База данных в облаке (Да/Нет)#Database in the cloud (Yes/No)
+Имя копии сохраняемой базы данных#Name of the saved database copy
 Показать дату окончания периода (Да/Нет)#To show the period end date (Yes/No)
 Порядок сортировки начинается с (Min/Max)#The sort order starts with (Min/Max)
 Путь к загружаемому массиву#The path to the downloadable array
-Показывать нулевое значение контрагента - Да/Нет#Show zero value of the contractor - Yes/No
-Показывать нулевое значение счета - Да/Нет#Show zero value invoices - Yes/No
+Наименование аналитического счета#Analytical account name
+Количество записей журнала#The number of log records
 Получатель синхронизируемых данных Имя/Нет#The recipient of synchronized data Name/No
 Да#Yes
 Нет#No
@@ -19,63 +19,63 @@
 Настройка#Setting
 Печать#Print
 Ошибка#Error
-при удалении массива#when you delete the array
+при удалении#at removal
 Документы#Documents
 больше#more
 Дата начала#Start date
 даты конца#the ending date
-Запись итогов за период с#Record totals for the period from
+Итоги за период с#Results for the period from
 до#to
-завершена#completed
+записаны#recorded
 За выбранный период данные отсутствуют. Вы можете загрузить тестовые данные#For the selected time period data not available. You can download the test data
 Выберите действие#Select the action
 Отмена#Cancel
-Загрузить тест из 2-х записей#Download test of 2 records
-Загрузить тест с GitHab#Download test GitHab
+тест из 2-х записей#test of 2 records
+тест с GitHab#test GitHab
 50.Касса USD#50.Cash USD
 50.Касса Руб#50.Cash RUB
 Находилось в сейфе#Was in the safe
- по курсу 66,73#at the rate 66,73
+по курсу 66,73#at the rate 66,73
 Остатки#The remains
 Начало#Beginning
 Конец#The end
 Сегодня#today
 время#time
 Продолжить#Continue
-Загрузить данные за период#Load data for the period
-Запись итогов на конец периода#Record totals at end of period
+Загрузить#Download
+итогов на конец периода#totals at end of period
 Пароль#Password
 У вас есть данные начиная с#You have data since
-Измените период загрузки данных#Change the period of data loading
+Измените период загрузки#Change the download period
 Количество#The number
 записей#records
-при загрузке массива#when loading the array
-загрузки файла#loading file
-записи файла#writing file
-Нарушение структуры данных#Violation of data structures
-Количество блоков в базе данных не может быть более 9999. Удалите часть информации или обратитесь к разработчику.#The number of blocks in the database can not be more than 9999. Delete some information or contact the developer.
-Ошибок нет#There are no errors
-Сохранили базу данных#Maintained database
-Количество записей#The number of records
-Имя файла не может начинаться с data#The file name may not start with data
-Ошибка записи в файл#Error writing to file
-Сохранили в файл#Saved to a file
+при загрузке#at boot
+загрузки#loads
+файла#file
+Нарушение структуры#Violation of the structure
+блоков в базе данных не может быть более 9999. Удалите часть информации или#of blocks in the database can not be more than 9999. Delete some of the information or
+Повторите операцию#Retry the operation
+?#?
+массива#array
+файла не может начинаться с data#the file cannot start with data
+записи#records
+Сохранили#Saved
 Внимание#Attention
 восстановление#recovery
-Создать базу данных из файла#To create a database from a file
+?#?
 Данные для восстановления отсутствуют#Recovery data is missing
-Ошибка при добавлении записи в базу#Error when adding record in database
-Количество ошибок#The number of errors
+при добавлении#at addition
+ошибок#errors
 Данные восстановлены#Data restored
-копия базы данных на#a copy of the database on
-Передача файла#File transfer
+копия#copy
+Передача#transfer
 ФАЙЛ НЕ ДОСТУПЕН#THE FILE IS NOT AVAILABLE
 (возможно отсутствие интернет)#(maybe the lack of Internet)
 Изменения#Changes
-Начать корректировку базы не нарушая данных#To adjust the database without violating data
-Ошибка записи#Write error
-корректировка базы данных завершена#the adjustment of the database completed
-Сервис для базы данных#Service for the database
+Сохраните базу на устройстве и восстановите#Save the database to your device and restore it
+Имя#Name
+корректировка#Adjustment
+Сервис для#Service for
 Первая запись не#The first entry is not
 блок#bloc
 файл#file
@@ -87,9 +87,9 @@
 Приход#Getting
 Расход#Expenses
 Итого#Total
-резерв#reserve
-Возможно отсутствие файла#Perhaps the lack of the file
-Ошибка при загрузке файла#Error loading file
+или слово#or word
+Возможно отсутствие#Perhaps the lack
+данных#data
 Загрузили массив#Downloaded the array
 Дата операции#The date of the transaction
 Комментарий#Comment
@@ -104,10 +104,10 @@
 Не удалось отправить#Failed to send
 Изменения в базе будут отправлены#Changes to the database will be sent
 Отправить изменения#To submit changes
-Изменений базы данных нет на#Database changes no
-при записи в файл#when writing to a file
-изменения базы данных передано#database changes are transferred
-Передача файла не возможна#File transfer not possible
+на#on
+?#?
+изменения базы данных переданы#database changes are transferred
+файла не возможна#file not possible
 Удалить запись#To delete a record
 не полная запись#no complete record
 без НДС#without VAT
@@ -117,10 +117,10 @@
 Сохранили#Saved
 Записали#Recorded
 В массиве нет#In the mountains there
-В базе нет массива#Not in the database array
+В базе нет#Not in the database
 В пункте Главного меню#In the Main menu
 Сервис обмена данными#Service data exchange
-Загрузить форму счета с#Download form account of
+форму счета с#form account of
 Печать счет-фактуры#Print invoice
 Печать накладной#Print invoice
 вертикальная#vertical
@@ -131,68 +131,68 @@
 задайте номер#set the number
 задайте номер начала и конца в формате Nначало-Nконец#ecify a beginning and end format Nthebeginning Ntheend
 Заменить#Replace
-Копирование в облако#Up in the cloud
+Копирование#Copy
 начиная с#since
 Nначало-Nконец#Nthebeginning Ntheend
 Копировать#Copy
 Отказ#Failure
-Ошибка периода записей#Period error records
+периода записей#record periods
 формат#format
 Завершение копирования в журнал#The end of the copy in the magazine
 Перейдите на выгрузку изменений в облако#Click to upload changes to the cloud
-Ошибка передачи#Communications error
+передачи#transfers
 сообщения#messages
 Успешно#Successfully
-Передача изменений#Changes transfer
+изменений#Changes
 Очистить журнал#Clear log
 В журнале#In the journal
 Запись#record
 Это не запись#This is not a recording
-Загрузить документ#Download the document
+документ#the document
 Все контрагенты по счету#All partners on the account
 Изменить#To change
 Загружаем#Downloadable
-В облаке#In the cloud
+Синхронизация через#Synchronization via
 полученных посылок#the parcel
-Ошибка удаления записи#Error deleting record
+удаления#deleting
 Очистить облако#To clear the cloud
 Приём#Reception
 Записей произведён#Records produced
-Загрузка изменений базы данных из облака#Download database changes from the cloud
+Загрузка#Load
 Нет записей на выгрузку#No records to upload
 нажмите#click
 Нет записей на удаление#No records to delete
-Выгрузка изменений базы данных в облако#Upload database changes to the cloud
-Нет получателя синхронизируемых данных#No recipient of information to be synchronized
+Выгрузка#Discharge
+базу#base
 Перейдите в настройки#Go to settings
-Продолжить#Continue
+работу#work
 Новая#New
-Порядковый номер записи#Serial number of the record
+Порядковый номер#Serial number
 Откуда#From where
 Куда#To where
 изменения#replacement
 создания#created
-Загрузить массив#Load the array
-Отсутствует доступ к хранилищу#No access to store
+массив#the array
+доступ к хранилищу# access to store
 Нормальное завершение передачи#Normal end of transmission
 Загрузку начать#The download to start
 Реквизиты документа#The details of the document
 Реквизиты счета#Account details
 Операция#Transaction
-Удалить массив базы данных#To remove the array database
-Нормальное завершение удаления массива#Normal completion of deleting the array
+Удалить массив#To remove
+Нормальное завершение#Normal termination
 Нет контрагента#No counterparty
 Реквизит#Detail
-документ для печати передан#the print document is transmitted
-Проверить базу данных#To check the database
-Сохранить базу на устройстве#To keep the base on the device
-Восстановить базу на устройстве#To restore the database on the device
+для печати передан#to print the transferred
+Проверить и исправить#To check and correct
+при выгрузке#during unloading
+исправлено при проверке#fixed on scan
 Отправить базу данных на почту#To send database mail
 Скопировать базу в хранилище#To copy the database to the vault
 Восстановить базу из хранилища#To restore the database from the repository
-Загрузить форму баланса по контрагенту с#Download the form balance sheet to a counterparty with
-Загрузить форму накладной#Download form invoice
-Загрузить форму счет-фактуры#Download form invoice
+форму баланса по контрагенту с#the form balance sheet to a counterparty with
+форму накладной#form invoice
+форму счет-фактуры#form invoice
 Отправить смс на#Send SMS to
 Отправить изменения на почту#Send changes to mail
 Копировать часть базы в облако#To copy a part of database in the cloud
@@ -212,6 +212,20 @@ Nначало-Nконец#Nthebeginning Ntheend
 в#in
 облака#clouds
 облако#cloud
+облаке#cloud
+Сохранить#Save
+Восстановить#Restored
+блоков#blocks
+Ожидайте окончания процесса#Wait for the process to finish
+Завершение работы#Shut down
+произведена#is made
+Выход произвести#Way to produce
+Хранение информации в облаке - оплачиваемая функция#Storage of information in the cloud-paid feature
+обратитесь к разработчику#contact the developer
+на устройстве#on the device
+базы#bases
+отсутствует#is missing
+записи#records
 Январь#January
 Февраль#February
 Март#March

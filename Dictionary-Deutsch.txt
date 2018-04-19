@@ -1,37 +1,37 @@
 #Array Dictionary-Deutsch
+Страна#Land
 Ваш e-mail#Ihre E-Mail
 Ваш идентификатор#Ihre id
 Ваш пароль или слово - Нет#Ihr Passwort oder Wort-Nein
-Страна#Land
 Дата начала периода#Datum des Zeitraums
 Дата окончания периода#Das Enddatum der Periode
-Массив базы данных#Array Datenbank
-Имя копии сохраняемой базы данных#Name der Kopie der zu speichernden Datenbank
+База данных в облаке (Да/Нет)#Datenbank in Der cloud (ja/Nein)
+Имя копии сохраняемой базы данных#Name der Kopie der gespeicherten Datenbank
 Показать дату окончания периода (Да/Нет)#Enddatum Des Zeitraums anzeigen (ja / Nein)
 Порядок сортировки начинается с (Min/Max)#Die Sortierreihenfolge beginnt mit (min/max)
 Путь к загружаемому массиву#Pfad zum geladenen array
-Показывать нулевое значение контрагента - Да/Нет#Kontrahenten-null-ja / Nein anzeigen
-Показывать нулевое значение счета - Да/Нет#Kontonummer null-ja / Nein anzeigen
-Получатель синхронизируемых данных Имя/Нет#Empfänger der Synchronisierten Daten name / keine
+Наименование аналитического счета#Bezeichnung analytischen Rechnungen
+Количество записей журнала#Anzahl der Protokolleinträge
+Получатель синхронизируемых данных Имя/Нет#Empfänger der synchronisierten Daten Name / Nein
 Да#Ja
 Нет#Nein
 Вам перезагрузили настройки#Sie Einstellungen neugestartet
 Настройка#Einstellung
 Печать#Drucken
 Ошибка#Fehler
-при удалении массива#löschen eines Arrays
+при удалении#beim löschen
 Документы#Unterlagen
 больше#mehr
 Дата начала#Startdatum
 даты конца#Enddatum
-Запись итогов за период с#Aufzeichnen der Ergebnisse für den Zeitraum
+Итоги за период с#Ergebnisse für den Zeitraum c
 до#bis
-завершена#abgeschlossen
+записаны#eingeschrieben
 За выбранный период данные отсутствуют. Вы можете загрузить тестовые данные#Für den ausgewählten Zeitraum gibt es keine Daten. Sie können Testdaten herunterladen
 Выберите действие#Wählen Sie eine Aktion aus
 Отмена#Abbrechen
-Загрузить тест из 2-х записей#Test aus 2 Aufnahmen herunterladen
-Загрузить тест с GitHab#Download Test mit GitHab
+тест из 2-х записей#Test von 2 Aufnahmen
+тест с GitHab#Test mit GitHab
 50.Касса USD#50.Kasse USD
 50.Касса Руб#50.Die Kasse
 Находилось в сейфе#War im Safe
@@ -42,40 +42,40 @@
 Сегодня#Heute
 время#Zeit
 Продолжить#Fortsetzen
-Загрузить данные за период# Daten für den Zeitraum herunterladen
-Запись итогов на конец периода#Aufzeichnen von Ergebnissen
+Загрузить#Beladen
+итогов на конец периода#Ergebnisse für das Ende der Periode
 Пароль#Passwort
 У вас есть данные начиная с#Sie haben Daten ab
-Измените период загрузки данных#Ändern Sie die Ladezeit der Daten
+Измените период загрузки#Ändern Sie die Boot
 Количество#Anzahl
 записей#Eintrag
-при загрузке массива#beim laden eines Arrays
-загрузки файла#herunterladen einer Datei
-записи файла#schreiben einer Datei
-Нарушение структуры данных#Verletzung der Datenstrukturen
-Количество блоков в базе данных не может быть более 9999. Удалите часть информации или обратитесь к разработчику.#Die Anzahl der Blöcke in der Datenbank darf nicht mehr als 9999 sein. Entfernen Sie einige Informationen oder wenden Sie sich an den Entwickler.
-Ошибок нет#Keine Fehler
-Сохранили базу данных# Datenbank gespeichert
-Количество записей#Anzahl der Datensätze
-Имя файла не может начинаться с data#Der Dateiname kann nicht mit data beginnen
-Ошибка записи в файл#Fehler beim schreiben in eine Datei
-Сохранили в файл#Gespeichert in Datei
+при загрузке#beim Booten
+загрузки#Laden
+файла#Datei
+Нарушение структуры#Verletzung der Struktur
+блоков в базе данных не может быть более 9999. Удалите часть информации или#Blöcke in der Datenbank können nicht mehr als 9999 sein. Löschen Sie einige Informationen oder
+Повторите операцию#Wiederholen Sie den Vorgang
+?#?
+массива#array
+файла не может начинаться с data#die Datei kann nicht mit data beginnen
+записи#eintrag
+Сохранили#Beibehalten
 Внимание#Aufmerksamkeit
 восстановление#die Wiederherstellung
-Создать базу данных из файла# Datenbank aus Datei erstellen
+?#?
 Данные для восстановления отсутствуют#Keine Daten zur Wiederherstellung
-Ошибка при добавлении записи в базу#Fehler beim hinzufügen eines Eintrags zur Datenbank
-Количество ошибок#Anzahl der Fehler
+при добавлении#beim hinzufügen
+ошибок#Fehler
 Данные восстановлены# Daten wiederhergestellt
-копия базы данных на#Kopie der Datenbank auf
-Передача файла# Dateiübertragung
+копия#Kopie
+Передача#Übertragung
 ФАЙЛ НЕ ДОСТУПЕН# DATEI NICHT VERFÜGBAR
 (возможно отсутствие интернет)#(vielleicht kein Internet)
 Изменения#Veränderungen
-Начать корректировку базы не нарушая данных#Starten Sie die Datenbank-Korrektur ohne Daten zu stören
-Ошибка записи#Schreibfehler
-корректировка базы данных завершена#die Datenbank-Korrektur wurde abgeschlossen
-Сервис для базы данных#Service für die Datenbank
+Сохраните базу на устройстве и восстановите#Speichern Sie die Datenbank auf Ihrem Gerät und wiederherstellen
+Имя#Name
+Корректировка#Korrektur
+Сервис для#Service für
 Первая запись не#Der erste Eintrag
 блок#Block
 файл# Datei
@@ -87,9 +87,9 @@
 Приход#Pfarrei
 Расход#Verbrauch
 Итого#Gesamt
-резерв#Reserve
-Возможно отсутствие файла#Keine Datei vorhanden
-Ошибка при загрузке файла#Fehler beim laden der Datei
+или слово#oder ein Wort
+Возможно отсутствие#Möglicherweise nicht
+данных#daten
 Загрузили массив#Array geladen
 Дата операции#Datum der Operation
 Комментарий#Kommentar
@@ -104,10 +104,10 @@
 Не удалось отправить#Senden fehlgeschlagen
 Изменения в базе будут отправлены#Änderungen an der Datenbank werden gesendet
 Отправить изменения#Änderungen senden
-Изменений базы данных нет на#Keine Datenbankänderungen auf
-при записи в файл#beim schreiben in eine Datei
-изменения базы данных передано# Datenbankänderungen wurden übergeben
-Передача файла не возможна# Dateiübertragung ist nicht möglich
+на#auf
+?#?
+изменения базы данных переданы#Datenbankänderungen werden übertragen
+файла не возможна#Datei nicht möglich
 Удалить запись# Datensatz löschen
 не полная запись#nicht vollständige Aufnahme
 без НДС#ohne MwSt.
@@ -117,10 +117,10 @@
 Сохранили#Beibehalten
 Записали#Notieren
 В массиве нет#Kein array
-В базе нет массива#In der Datenbank kein array
+В базе нет#Keine Datenbank
 В пункте Главного меню#Im Hauptmenü
 Сервис обмена данными#Service Datenaustausch
-Загрузить форму счета с#Laden Sie das Konto-Formular von
+форму счета с#Konto-Formular mit
 Печать счет-фактуры#Drucken einer Rechnung
 Печать накладной#Drucken von FRACHTBRIEFE
 вертикальная#vertikal
@@ -131,68 +131,68 @@
 задайте номер#legen Sie die Nummer
 задайте номер начала и конца в формате Nначало-Nконец#geben Sie die Start-und Endnummer im Format Nnal-nkonets an
 Заменить#Ersetzen
-Копирование в облако#Kopieren in die cloud
+Копирование#Backup
 начиная с#seit
 Nначало-Nконец#Nnatalo-Nkonetz
 Копировать#Kopieren
 Отказ#Verzicht
-Ошибка периода записей#Fehler beim aufzeichnungszeitraum
+периода записей#Zeitraum der Datensätze
 формат#Format
 Завершение копирования в журнал#Beenden des protokollierens
 Перейдите на выгрузку изменений в облако#Gehen Sie zum hochladen der änderungen in die cloud
-Ошибка передачи#Ein übertragungsfehler
+передачи#übertragungsfehler
 сообщения#Nachrichten
 Успешно#Erfolgreich
-Передача изменений#Übertragen von änderungen
+изменений#Änderung
 Очистить журнал#Protokoll löschen
 В журнале#In der Zeitschrift
 Запись#Eintrag
 Это не запись#Es ist kein Datensatz
-Загрузить документ#Dokument hochladen
+документ#Dokument
 Все контрагенты по счету#Alle Kontrahenten auf der Rechnung
 Изменить#Ändern
 Загружаем#Laden
-В облаке#In der Wolke
+Синхронизация через#Synchronisation über
 полученных посылок#empfangene pakete
-Ошибка удаления записи#Fehler beim löschen eines Eintrags
+удаления#Entfernen
 Очистить облако#Wolke löschen
 Приём#Empfang
 Записей произведён#Einträge erzeugt
-Загрузка изменений базы данных из облака#Laden von Datenbankänderungen aus der cloud
+Загрузка#Laden
 Нет записей на выгрузку#Keine Einträge zum entladen
 нажмите#drücken
 Нет записей на удаление#Keine Einträge löschen
-Выгрузка изменений базы данных в облако#Hochladen von Datenbankänderungen in die cloud
-Нет получателя синхронизируемых данных#Keine synchronisierten Datenempfänger
+Выгрузка#Entladen
+базу#Base
 Перейдите в настройки#Gehen Sie zu Einstellungen
-Продолжить#Fortsetzen
+работу#Arbeit
 Новая#Nova
-Порядковый номер записи#Sequenznummer des Eintrags
+Порядковый номер#laufende Nummer
 Откуда#Woher
 Куда#Wohin
 изменения#Veränderungen
 создания#Schaffung
-Загрузить массив#Array laden
-Отсутствует доступ к хранилищу#Kein Zugriff auf den Speicher
+массив#Array
+доступ к хранилищу#Zugriff auf den Speicher
 Нормальное завершение передачи#Normaler Abschluss der übertragung
 Загрузку начать#Download starten
 Реквизиты документа#Dokument Details
 Реквизиты счета#Kontodaten
 Операция#Operation
-Удалить массив базы данных# Datenbank-array löschen
-Нормальное завершение удаления массива#Normales löschen eines Arrays
+Удалить массив#Array löschen
+Нормальное завершение#Normaler Abschluss
 Нет контрагента#Keine Kontrahenten
 Реквизит#Requisiten
-документ для печати передан#das Dokument wurde gesendet
-Проверить базу данных# Datenbank überprüfen
-Сохранить базу на устройстве# Datenbank auf dem Gerät speichern
-Восстановить базу на устройстве# Datenbank auf dem Gerät wiederherstellen
+для печати передан#zum drucken übergeben
+Проверить и исправить#Überprüfen und beheben
+при выгрузке#beim entladen
+исправлено при проверке#behoben bei der überprüfung
 Отправить базу данных на почту# Datenbank an E-Mail senden
 Скопировать базу в хранилище# Datenbank in den Tresor kopieren
 Восстановить базу из хранилища# Datenbank aus dem Tresor wiederherstellen
-Загрузить форму баланса по контрагенту с#Laden Sie die bilanzformular für einen Kontrahenten mit
-Загрузить форму накладной#Frachtbrief-Formular herunterladen
-Загрузить форму счет-фактуры#Das Rechnungsformular herunterladen
+форму баланса по контрагенту с#die Bilanz der Kontrahenten mit
+форму накладной#Form des Frachtbriefs
+форму счет-фактуры#Rechnung-Formular
 Отправить смс на#Senden Sie SMS an
 Отправить изменения на почту#Änderungen an E-Mail senden
 Копировать часть базы в облако#Kopieren Teil in der cloud
@@ -212,6 +212,20 @@ Nначало-Nконец#Nnatalo-Nkonetz
 в#zu
 облака#wolke
 облако#wolke
+облаке#Wolke
+Сохранить#Beibehalten
+Восстановить#Wiederherstellen
+блоков#Block
+Ожидайте окончания процесса#Erwarten Sie das Ende des Prozesses
+Завершение работы#Herunterfahren
+произведена#produziert
+Выход произвести#Ertrag produzieren
+Хранение информации в облаке - оплачиваемая функция#Speichern von Informationen in der cloud - bezahlte Funktion
+обратитесь к разработчику#bitte wenden Sie sich an den Entwickler
+на устройстве#auf dem Gerät
+базы#base
+отсутствует#fehlen
+записи#Eintrag
 Январь#Januar
 Февраль#Februar
 Март#März

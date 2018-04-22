@@ -1,247 +1,260 @@
 #Array Dictionary-English
-Страна#Country
-Ваш e-mail#Your e-mail
-Ваш идентификатор#Your identifier
-Ваш пароль или слово - Нет#Your password or the word - No
-Дата начала периода#Period start date
-Дата окончания периода#Period end date
-База данных в облаке (Да/Нет)#Database in the cloud (Yes/No)
-Имя копии сохраняемой базы данных#Name of the saved database copy
-Показать дату окончания периода (Да/Нет)#To show the period end date (Yes/No)
-Порядок сортировки начинается с (Min/Max)#The sort order starts with (Min/Max)
-Путь к загружаемому массиву#The path to the downloadable array
-Наименование аналитического счета#Analytical account name
-Количество записей журнала#The number of log records
-Получатель синхронизируемых данных Имя/Нет#The recipient of synchronized data Name/No
-Да#Yes
-Нет#No
-Вам перезагрузили настройки#You have Reset the settings
-Настройка#Setting
-Печать#Print
-Ошибка#Error
-при удалении#at removal
-Документы#Documents
-больше#more
-Дата начала#Start date
-даты конца#the ending date
-Итоги за период с#Results for the period from
-до#to
-записаны#recorded
-За выбранный период данные отсутствуют. Вы можете загрузить тестовые данные#For the selected time period data not available. You can download the test data
-Выберите действие#Select the action
-Отмена#Cancel
-тест из 2-х записей#test of 2 records
-тест с GitHab#test GitHab
-50.Касса USD#50.Cash USD
-50.Касса Руб#50.Cash RUB
-Находилось в сейфе#Was in the safe
-по курсу 66,73#at the rate 66,73
-Остатки#The remains
-Начало#Beginning
-Конец#The end
-Сегодня#today
-время#time
-Продолжить#Continue
-Загрузить#Download
-итогов на конец периода#totals at end of period
-Пароль#Password
-У вас есть данные начиная с#You have data since
-Измените период загрузки#Change the download period
-Количество#The number
-записей#records
-при загрузке#at boot
-загрузки#loads
-файла#file
-Нарушение структуры#Violation of the structure
-блоков в базе данных не может быть более 9999. Удалите часть информации или#of blocks in the database can not be more than 9999. Delete some of the information or
-Повторите операцию#Retry the operation
-?#?
-массива#array
-файла не может начинаться с data#the file cannot start with data
-записи#records
-Сохранили#Saved
-Внимание#Attention
-восстановление#recovery
-?#?
-Данные для восстановления отсутствуют#Recovery data is missing
-при добавлении#at addition
-ошибок#errors
-Данные восстановлены#Data restored
-копия#copy
-Передача#transfer
-ФАЙЛ НЕ ДОСТУПЕН#THE FILE IS NOT AVAILABLE
-(возможно отсутствие интернет)#(maybe the lack of Internet)
-Изменения#Changes
-Сохраните базу на устройстве и восстановите#Save the database to your device and restore it
-Имя#Name
-корректировка#Adjustment
-Сервис для#Service for
-Первая запись не#The first entry is not
-блок#bloc
-файл#file
-Удаление журнала#Removal of the magazine
-Остатки на дату#Balances on the date
-Системная ошибка#System error
-Программная ошибка#Software error
-Дата#The date
-Приход#Getting
-Расход#Expenses
-Итого#Total
-или слово#or word
-Возможно отсутствие#Perhaps the lack
-данных#data
-Загрузили массив#Downloaded the array
-Дата операции#The date of the transaction
-Комментарий#Comment
-Кол-во#Count
-Цена#Price
-сумма#sum
-Счета#Account
-Отправить сообщение можно только получателю с установленым Messanger#You can send a message only to the recipient with the mounted Messanger
-Отправка сообщения#Sending a message
-Сообщение#Message
-Сообщение отправлено#The message is sent
-Не удалось отправить#Failed to send
-Изменения в базе будут отправлены#Changes to the database will be sent
-Отправить изменения#To submit changes
-на#on
-?#?
-изменения базы данных переданы#database changes are transferred
-файла не возможна#file not possible
-Удалить запись#To delete a record
-не полная запись#no complete record
-без НДС#without VAT
-с НДС#VAT
-Сохранить#Save
-Нет изменений#No change
-Сохранили#Saved
-Записали#Recorded
-В массиве нет#In the mountains there
-В базе нет#Not in the database
-В пункте Главного меню#In the Main menu
-Сервис обмена данными#Service data exchange
-форму счета с#form account of
-Печать счет-фактуры#Print invoice
-Печать накладной#Print invoice
-вертикальная#vertical
-горизонтальная#horizontal
-Редактирование#Edit
-Редактирование реквизита#Edit props
-Редактирование порядка сортировки#Edit the sort order
-задайте номер#set the number
-задайте номер начала и конца в формате Nначало-Nконец#ecify a beginning and end format Nthebeginning Ntheend
-Заменить#Replace
-Копирование#Copy
-начиная с#since
-Nначало-Nконец#Nthebeginning Ntheend
-Копировать#Copy
-Отказ#Failure
-периода записей#record periods
-формат#format
-Завершение копирования в журнал#The end of the copy in the magazine
-Перейдите на выгрузку изменений в облако#Click to upload changes to the cloud
-передачи#transfers
-сообщения#messages
-Успешно#Successfully
-изменений#Changes
-Очистить журнал#Clear log
-В журнале#In the journal
-Запись#record
-Это не запись#This is not a recording
-документ#the document
-Все контрагенты по счету#All partners on the account
-Изменить#To change
-Загружаем#Downloadable
-Синхронизация через#Synchronization via
-полученных посылок#the parcel
-удаления#deleting
-Очистить облако#To clear the cloud
-Приём#Reception
-Записей произведён#Records produced
-Загрузка#Load
-Нет записей на выгрузку#No records to upload
-нажмите#click
-Нет записей на удаление#No records to delete
-Выгрузка#Discharge
-базу#base
-Перейдите в настройки#Go to settings
-работу#work
-Новая#New
-Порядковый номер#Serial number
-Откуда#From where
-Куда#To where
-изменения#replacement
-создания#created
-массив#the array
-доступ к хранилищу# access to store
-Нормальное завершение передачи#Normal end of transmission
-Загрузку начать#The download to start
-Реквизиты документа#The details of the document
-Реквизиты счета#Account details
-Операция#Transaction
-Удалить массив#To remove
-Нормальное завершение#Normal termination
-Нет контрагента#No counterparty
-Реквизит#Detail
-для печати передан#to print the transferred
-Проверить и исправить#To check and correct
-при выгрузке#during unloading
-исправлено при проверке#fixed on scan
-Отправить базу данных на почту#To send database mail
-Скопировать базу в хранилище#To copy the database to the vault
-Восстановить базу из хранилища#To restore the database from the repository
-форму баланса по контрагенту с#the form balance sheet to a counterparty with
-форму накладной#form invoice
-форму счет-фактуры#form invoice
-Отправить смс на#Send SMS to
-Отправить изменения на почту#Send changes to mail
-Копировать часть базы в облако#To copy a part of database in the cloud
-Счет#Account
-Накладная, счет-фактура#Invoice, account fact
-Предприятия#Enterprise
-Товары, услуги#Goods, services
-при восстановлении#when restoring
-Календарь#Calendar
-потребует некоторого времени#will take some time
-Нет записей на загрузку#No records to load
-Контрагенты прихода(откуда) и расхода(куда) не могут быть одинаковы#Contractors are coming(from) and consumption(where) can not be the same
-с суммой#with the amount
-Выгрузить#Unload
-данные за период#data for the period
-из#from
-в#in
-облака#clouds
-облако#cloud
-облаке#cloud
-Сохранить#Save
-Восстановить#Restored
-блоков#blocks
-Ожидайте окончания процесса#Wait for the process to finish
-Завершение работы#Shut down
-произведена#is made
-Выход произвести#Way to produce
-Хранение информации в облаке - оплачиваемая функция#Storage of information in the cloud-paid feature
-обратитесь к разработчику#contact the developer
-на устройстве#on the device
-базы#bases
-отсутствует#is missing
-записи#records
-Январь#January
-Февраль#February
-Март#March
-Апрель#April
-Май#May
-Июнь#June
-Июль#July
-Август#August
-Сентябрь#September
-Октябрь#October
-Ноябрь#November
-Декабрь#December
-Пн#Mon
-Вт#Tu
-Ср#Wid
-Чт#Thu
-Пт#Fri
-Сб#Sut
-Вс#Sun
+arraydDictionary[0] = "Страна"
+arraydDictionary[1] = "Ваш e-mail"
+arraydDictionary[2] = "Ваш идентификатор"
+arraydDictionary[3] = "Ваш пароль или слово - Нет"
+arraydDictionary[4] = "Дата начала периода"
+arraydDictionary[5] = "Дата окончания периода"
+arraydDictionary[6] = "База данных в облаке (Да/Нет)"
+arraydDictionary[7] = "Имя копии сохраняемой базы данных"
+arraydDictionary[8] = "Показать дату окончания периода (Да/Нет)"
+arraydDictionary[9] = "Порядок сортировки начинается с (Min/Max)"
+arraydDictionary[10] = "Путь к загружаемому массиву"
+arraydDictionary[11] = "Наименование аналитического счета"
+arraydDictionary[12] = "Количество записей журнала"
+arraydDictionary[13] = "Получатель синхронизируемых данных Имя/Нет"
+arraydDictionary[14] = "Да"
+arraydDictionary[15] = "Нет"
+arraydDictionary[16] = "Вам перезагрузили настройки"
+arraydDictionary[17] = "Настройка"
+arraydDictionary[18] = "Печать"
+arraydDictionary[19] = "Ошибка"
+arraydDictionary[20] = "при удалении"
+arraydDictionary[21] = "Документы"
+arraydDictionary[22] = "больше"
+arraydDictionary[23] = "начала"
+arraydDictionary[24] = "конца"
+arraydDictionary[25] = "Итоги за период с"
+arraydDictionary[26] = "до"
+arraydDictionary[27] = "записаны"
+arraydDictionary[28] = "За выбранный период данные отсутствуют. Вы можете загрузить тестовые данные"
+arraydDictionary[29] = "Выберите действие"
+arraydDictionary[30] = "Отмена"
+arraydDictionary[31] = "тест из 2-х записей"
+arraydDictionary[32] = "тест с GitHab"
+arraydDictionary[33] = "50.Касса USD"
+arraydDictionary[34] = "50.Касса Руб"
+arraydDictionary[35] = "Находилось в сейфе"
+arraydDictionary[36] = "по курсу 66,73"
+arraydDictionary[37] = "Остатки"
+arraydDictionary[38] = "Начало"
+arraydDictionary[39] = "Конец"
+arraydDictionary[40] = "Сегодня"
+arraydDictionary[41] = "время"
+arraydDictionary[42] = "Продолжить"
+arraydDictionary[43] = "Загрузить"
+arraydDictionary[44] = "итогов на конец периода"
+arraydDictionary[45] = "Пароль"
+arraydDictionary[46] = "У вас есть данные начиная с"
+arraydDictionary[47] = "Измените"
+arraydDictionary[48] = "Количество"
+arraydDictionary[49] = "записей"
+arraydDictionary[50] = "при загрузке"
+arraydDictionary[51] = "загрузки"
+arraydDictionary[52] = "файла"
+arraydDictionary[53] = "Нарушение структуры"
+arraydDictionary[54] = "блоков в базе данных не может быть более 9999. Удалите часть информации или"
+arraydDictionary[55] = "Повторите операцию"
+arraydDictionary[56] = "начать"
+arraydDictionary[57] = "массива"
+arraydDictionary[58] = "файла не может начинаться с data"
+arraydDictionary[59] = "записи"
+arraydDictionary[60] = "Сохранили"
+arraydDictionary[61] = "Внимание"
+arraydDictionary[62] = "восстановление"
+arraydDictionary[63] = "Импорт"
+arraydDictionary[64] = "Данные для восстановления отсутствуют"
+arraydDictionary[65] = "при добавлении"
+arraydDictionary[66] = "ошибок"
+arraydDictionary[67] = "Данные восстановлены"
+arraydDictionary[68] = "копия"
+arraydDictionary[69] = "Передача"
+arraydDictionary[70] = "ФАЙЛ НЕ ДОСТУПЕН"
+arraydDictionary[71] = "(возможно отсутствие интернет)"
+arraydDictionary[72] = "Изменения"
+arraydDictionary[73] = "Сохраните базу на устройстве и восстановите"
+arraydDictionary[74] = "Имя"
+arraydDictionary[75] = "Корректировка"
+arraydDictionary[76] = "Сервис для"
+arraydDictionary[77] = "Первая запись не"
+arraydDictionary[78] = "блок"
+arraydDictionary[79] = "файл"
+arraydDictionary[80] = "Удаление журнала"
+arraydDictionary[81] = "Остатки на дату"
+arraydDictionary[82] = "Системная"
+arraydDictionary[83] = "Программная"
+arraydDictionary[84] = "Дата"
+arraydDictionary[85] = "Приход"
+arraydDictionary[86] = "Расход"
+arraydDictionary[87] = "Итого"
+arraydDictionary[88] = "или слово"
+arraydDictionary[89] = "Возможно отсутствие"
+arraydDictionary[90] = "данных"
+arraydDictionary[91] = "Загрузили"
+arraydDictionary[92] = "операции"
+arraydDictionary[93] = "Комментарий"
+arraydDictionary[94] = "Кол-во"
+arraydDictionary[95] = "Цена"
+arraydDictionary[96] = "сумма"
+arraydDictionary[97] = "Счета"
+arraydDictionary[98] = "Отправить сообщение можно только получателю с установленым Messanger"
+arraydDictionary[99] = "Отправка"
+arraydDictionary[100] = "Сообщение"
+arraydDictionary[101] = "Сообщение отправлено"
+arraydDictionary[102] = "Не удалось отправить"
+arraydDictionary[103] = "Изменения в базе будут отправлены"
+arraydDictionary[104] = "Экспорт"
+arraydDictionary[105] = "на"
+arraydDictionary[106] = "Синхронизацию"
+arraydDictionary[107] = "изменения базы данных переданы"
+arraydDictionary[108] = "файла не возможна"
+arraydDictionary[109] = "Удалить"
+arraydDictionary[110] = "не полная"
+arraydDictionary[111] = "без НДС"
+arraydDictionary[112] = "с НДС"
+arraydDictionary[113] = "Сохранить"
+arraydDictionary[114] = "Нет изменений"
+arraydDictionary[115] = "Сохранили"
+arraydDictionary[116] = "Записали"
+arraydDictionary[117] = "В массиве нет"
+arraydDictionary[118] = "В базе нет"
+arraydDictionary[119] = "В пункте Главного меню"
+arraydDictionary[120] = "Сервис обмена данными"
+arraydDictionary[121] = "форму счета с"
+arraydDictionary[122] = "Печать счет-фактуры"
+arraydDictionary[123] = "Печать накладной"
+arraydDictionary[124] = "вертикальная"
+arraydDictionary[125] = "горизонтальная"
+arraydDictionary[126] = "Редактирование"
+arraydDictionary[127] = "Редактирование реквизита"
+arraydDictionary[128] = "Редактирование порядка сортировки"
+arraydDictionary[129] = "задайте номер"
+arraydDictionary[130] = "задайте номер начала и конца в формате Nначало-Nконец"
+arraydDictionary[131] = "Заменить"
+arraydDictionary[132] = "Копирование"
+arraydDictionary[133] = "начиная с"
+arraydDictionary[134] = "Nначало-Nконец"
+arraydDictionary[135] = "Копировать"
+arraydDictionary[136] = "Отказ"
+arraydDictionary[137] = "периода записей"
+arraydDictionary[138] = "формат"
+arraydDictionary[139] = "Завершение копирования в журнал"
+arraydDictionary[140] = "Перейдите на выгрузку изменений в облако"
+arraydDictionary[141] = "передачи"
+arraydDictionary[142] = "сообщения"
+arraydDictionary[143] = "Успешно"
+arraydDictionary[144] = "изменений"
+arraydDictionary[145] = "журнал"
+arraydDictionary[146] = "В журнале"
+arraydDictionary[147] = "Запись"
+arraydDictionary[148] = "период"
+arraydDictionary[149] = "документ"
+arraydDictionary[150] = "Все контрагенты по счету"
+arraydDictionary[151] = "Изменить"
+arraydDictionary[152] = "Загружаем"
+arraydDictionary[153] = "Синхронизация через"
+arraydDictionary[154] = "полученных посылок"
+arraydDictionary[155] = "удаления"
+arraydDictionary[156] = "облако"
+arraydDictionary[157] = "Приём"
+arraydDictionary[158] = "Записей произведён"
+arraydDictionary[159] = "Загрузка"
+arraydDictionary[160] = "Нет записей на выгрузку"
+arraydDictionary[161] = "нажмите"
+arraydDictionary[162] = "Нет записей на удаление"
+arraydDictionary[163] = "Выгрузка"
+arraydDictionary[164] = "базу"
+arraydDictionary[165] = "Перейдите в настройки"
+arraydDictionary[166] = "работу"
+arraydDictionary[167] = "Новая"
+arraydDictionary[168] = "Порядковый номер"
+arraydDictionary[169] = "Откуда"
+arraydDictionary[170] = "Куда"
+arraydDictionary[171] = "Очистить"
+arraydDictionary[172] = "создания"
+arraydDictionary[173] = "массив"
+arraydDictionary[174] = "доступ к хранилищу"
+arraydDictionary[175] = "Нормальное завершение передачи"
+arraydDictionary[176] = "Загрузку"
+arraydDictionary[177] = "Реквизиты документа"
+arraydDictionary[178] = "Реквизиты счета"
+arraydDictionary[179] = "Операция"
+arraydDictionary[180] = "Данные"
+arraydDictionary[181] = "Нормальное завершение"
+arraydDictionary[182] = "Нет контрагента"
+arraydDictionary[183] = "Реквизит"
+arraydDictionary[184] = "для печати передан"
+arraydDictionary[185] = "Проверить и исправить"
+arraydDictionary[186] = "при выгрузке"
+arraydDictionary[187] = "исправлено при проверке"
+arraydDictionary[188] = "Отправить базу данных на почту"
+arraydDictionary[189] = "Скопировать базу в хранилище"
+arraydDictionary[190] = "Восстановить базу из хранилища"
+arraydDictionary[191] = "форму баланса по контрагенту с"
+arraydDictionary[192] = "форму накладной"
+arraydDictionary[193] = "форму счет-фактуры"
+arraydDictionary[194] = "Отправить смс на"
+arraydDictionary[195] = "Отправить изменения на почту"
+arraydDictionary[196] = "Копировать часть базы в облако"
+arraydDictionary[197] = "Счет"
+arraydDictionary[198] = "Накладная, счет-фактура"
+arraydDictionary[199] = "Предприятия"
+arraydDictionary[200] = "Товары, услуги"
+arraydDictionary[201] = "при восстановлении"
+arraydDictionary[202] = "Календарь"
+arraydDictionary[203] = "потребует некоторого времени"
+arraydDictionary[204] = "Нет записей на загрузку"
+arraydDictionary[205] = "Контрагенты прихода(откуда) и расхода(куда) не могут быть одинаковы"
+arraydDictionary[206] = "с суммой"
+arraydDictionary[207] = "Выгрузить"
+arraydDictionary[208] = "за"
+arraydDictionary[209] = "из"
+arraydDictionary[210] = "в"
+arraydDictionary[211] = "облака"
+arraydDictionary[212] = "облако"
+arraydDictionary[213] = "облаке"
+arraydDictionary[214] = "Сохранить"
+arraydDictionary[215] = "Восстановить"
+arraydDictionary[216] = "блоков"
+arraydDictionary[217] = "Ожидайте окончания процесса"
+arraydDictionary[218] = "Завершение работы"
+arraydDictionary[219] = "произведена"
+arraydDictionary[220] = "Выход произвести"
+arraydDictionary[221] = "Хранение информации в облаке - оплачиваемая функция"
+arraydDictionary[222] = "обратитесь к разработчику"
+arraydDictionary[223] = "на устройстве"
+arraydDictionary[224] = "базы"
+arraydDictionary[225] = "отсутствует"
+arraydDictionary[226] = "записи"
+arraydDictionary[227] = "Ожидайте"
+arraydDictionary[228] = "завершение"
+arraydDictionary[229] = "устройстве"
+arraydDictionary[230] = "Загружено"
+arraydDictionary[231] = "?"
+arraydDictionary[232] = "?"
+arraydDictionary[233] = "?"
+arraydDictionary[234] = "?"
+arraydDictionary[235] = "?"
+arraydDictionary[236] = "?"
+arraydDictionary[237] = "?"
+arraydDictionary[238] = "?"
+arraydDictionary[239] = "?"
+arraydDictionary[numberDictionaryClendar] = "Январь"
+arraydDictionary[numberDictionaryClendar+1] = "Февраль"
+arraydDictionary[numberDictionaryClendar+2] = "Март"
+arraydDictionary[numberDictionaryClendar+3] = "Апрель"
+arraydDictionary[numberDictionaryClendar+4] = "Май"
+arraydDictionary[numberDictionaryClendar+5] = "Июнь"
+arraydDictionary[numberDictionaryClendar+6] = "Июль"
+arraydDictionary[numberDictionaryClendar+7] = "Август"
+arraydDictionary[numberDictionaryClendar+8] = "Сентябрь"
+arraydDictionary[numberDictionaryClendar+9] = "Октябрь"
+arraydDictionary[numberDictionaryClendar+10] = "Ноябрь"
+arraydDictionary[numberDictionaryClendar+11] = "Декабрь"
+arraydDictionary[numberDictionaryClendar+12] = "Пн"
+arraydDictionary[numberDictionaryClendar+13] = "Вт"
+arraydDictionary[numberDictionaryClendar+14] = "Ср"
+arraydDictionary[numberDictionaryClendar+15] = "Чт"
+arraydDictionary[numberDictionaryClendar+16] = "Пт"
+arraydDictionary[numberDictionaryClendar+17] = "Сб"
+arraydDictionary[numberDictionaryClendar+18] = "Вс"
